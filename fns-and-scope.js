@@ -1,17 +1,18 @@
 //////////////////PROBLEM 1////////////////////
-
-var name = 'Tyler';
+var name= "Tyler";
 //Create a function called isTyler that accepts name as it's only parameter.
 //If the argument you passed in is equal to 'Tyler', return true. If it's not, return false.
 
  var isTyler =function (name){
  	if(name==="Tyler"){
+ 		
  		return true;
+ 		}
  		else {
  			return false;
  		}
  	}
- } 
+ 
 //////////////////PROBLEM 2////////////////////
 
 
@@ -67,7 +68,7 @@ function welcome(){
 
   //Code Here
   function myName(name){
-  	return name;
+  	return "Jerad";
   }
 
 
